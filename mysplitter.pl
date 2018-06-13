@@ -2,7 +2,8 @@
 
 # Madelaine Gogol 
 # originally written 10/22/2009
-# based on splitter with a simple threshold.
+# inspired by "splitter" peak caller with a simple threshold.
+# original splitter: https://zlab.bu.edu/yf/anchor/web/splitter.cgi?step=0
 # Example call: perl mysplitter.pl mytrack.bedGraph 10 300 2
 # where 10 is minimum run, 300 is the maximum gap between data, and 2 is the threshold (threshold can also be given as percentile like 95pct).
 
